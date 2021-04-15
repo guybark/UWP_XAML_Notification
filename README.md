@@ -8,4 +8,5 @@ The screenshot below shows the Accessibility Insights for Windows tool reporting
 
 For more information about the Accessibility Insights for Windows tool, please visit [Accessibility Insights for Windows](https://accessibilityinsights.io/docs/en/windows/overview/).
 
-![The Accessibility Insights for Windows tool reporting a UIA Notification event being raised by the UWP XAML demo app.](ControlTemplateText.png)
+![The Accessibility Insights for Windows tool reporting a UIA Notification event being raised by the UWP XAML demo app.](AIWinNotification.png)
+
