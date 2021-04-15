@@ -13,11 +13,12 @@
             <Button x:Name="RaiseNotificationButton" 
                 Content="Raise a UIA Notification event" 
                 AccessKey="R"
-                Click="RaiseNotificationButton_Click"/>
+                Click="RaiseNotificationButton_Click"
+                Margin="0 0 0 10" />
             <Button 
                 Content="Close" 
                 AccessKey="C"
-                Click="CloseButton_Click"/>
+                Click="CloseButton_Click" />
         </StackPanel>
     </Grid>
 </Page>
